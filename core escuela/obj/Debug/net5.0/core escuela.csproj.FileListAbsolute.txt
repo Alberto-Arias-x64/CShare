@@ -1,0 +1,16 @@
+F:\Nueva_carpeta\Platzy\core escuela\bin\Debug\net5.0\core escuela.exe
+F:\Nueva_carpeta\Platzy\core escuela\bin\Debug\net5.0\core escuela.deps.json
+F:\Nueva_carpeta\Platzy\core escuela\bin\Debug\net5.0\core escuela.runtimeconfig.json
+F:\Nueva_carpeta\Platzy\core escuela\bin\Debug\net5.0\core escuela.runtimeconfig.dev.json
+F:\Nueva_carpeta\Platzy\core escuela\bin\Debug\net5.0\core escuela.dll
+F:\Nueva_carpeta\Platzy\core escuela\bin\Debug\net5.0\ref\core escuela.dll
+F:\Nueva_carpeta\Platzy\core escuela\bin\Debug\net5.0\core escuela.pdb
+F:\Nueva_carpeta\Platzy\core escuela\obj\Debug\net5.0\core escuela.csprojAssemblyReference.cache
+F:\Nueva_carpeta\Platzy\core escuela\obj\Debug\net5.0\core escuela.GeneratedMSBuildEditorConfig.editorconfig
+F:\Nueva_carpeta\Platzy\core escuela\obj\Debug\net5.0\core escuela.AssemblyInfoInputs.cache
+F:\Nueva_carpeta\Platzy\core escuela\obj\Debug\net5.0\core escuela.AssemblyInfo.cs
+F:\Nueva_carpeta\Platzy\core escuela\obj\Debug\net5.0\core escuela.csproj.CoreCompileInputs.cache
+F:\Nueva_carpeta\Platzy\core escuela\obj\Debug\net5.0\core escuela.dll
+F:\Nueva_carpeta\Platzy\core escuela\obj\Debug\net5.0\ref\core escuela.dll
+F:\Nueva_carpeta\Platzy\core escuela\obj\Debug\net5.0\core escuela.pdb
+F:\Nueva_carpeta\Platzy\core escuela\obj\Debug\net5.0\core escuela.genruntimeconfig.cache
